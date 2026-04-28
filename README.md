@@ -72,3 +72,10 @@ Created in Tableau to visualize usage patterns between casual riders and members
 ## Author
 Muhammed Trawalley
 Data Analytics Portfolio Project
+
+----
+
+## Dashboard Preview
+![Cyclistic Dashboard](dashboard1.png)
+
+
