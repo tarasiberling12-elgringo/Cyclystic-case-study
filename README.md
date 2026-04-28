@@ -76,6 +76,6 @@ Data Analytics Portfolio Project
 ----
 
 ## Dashboard Preview
-![Cyclistic Dashboard](Dashboard.png)
+![Dashboard](Dashboard.png)
 
 
