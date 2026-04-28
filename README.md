@@ -84,4 +84,10 @@ Data Analytics Portfolio Project
 All SQL queries used for data cleaning and analysis can be found here:
 [View SQL File](sql_queries.sql)
 
+---
+
+## Full Report
+Read the complete case study report here:
+[Download Report](Cyclistic_Case_Study_report.pdf)
+
 
