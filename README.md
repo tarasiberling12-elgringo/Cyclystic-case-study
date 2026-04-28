@@ -89,6 +89,6 @@ All SQL queries used for data cleaning and analysis can be found here:
 
 ## Full Report
 Read the complete case study report here:
-[Download Report](Cyclistic_Case_Study_report.pdf)
+[Download Report](Cyclistic_Case_ Study_report.pdf)
 
 
