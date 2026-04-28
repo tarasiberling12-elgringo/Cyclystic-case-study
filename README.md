@@ -76,7 +76,7 @@ Data Analytics Portfolio Project
 ----
 
 ## Dashboard Preview
-![Dashboard](Dashboard.png)
+![Dashboard](Dashboard .png)
 
 ---
 
