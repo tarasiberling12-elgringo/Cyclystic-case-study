@@ -76,7 +76,6 @@ Data Analytics Portfolio Project
 ----
 
 ## Dashboard Preview
-![Cyclistic Dashboard](<img width="1998" height="1598" alt="Dashboard 1" src="https://github.com/user-attachments/assets/f0021267-dbbd-42fb-995b-515c0fda98d0" />
-)
+![Cyclistic Dashboard](dasboard.png)
 
 
