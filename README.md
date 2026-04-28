@@ -78,4 +78,10 @@ Data Analytics Portfolio Project
 ## Dashboard Preview
 ![Dashboard](Dashboard.png)
 
+---
+
+## SQL Queries
+All SQL queries used for data cleaning and analysis can be found here:
+[View SQL File](sql_queries.sql)
+
 
